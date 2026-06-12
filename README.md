@@ -21,18 +21,12 @@ This project implements a D Flip-Flop and a 4-Bit Synchronous Counter using Veri
 * GitHub
 
 ## Project Files
-
-*counter testbench.txt
-
-*counter.txt
-
-*d flipflop.txt
-
-*testbench Dff.txt
-
-*counter_waveform.png
-
-*counter_waveform.png
+counter testbench.txt
+counter.txt
+d flipflop.txt
+testbench Dff.txt
+counter_waveform.png
+counter_waveform.png
 
 ## Results
 
