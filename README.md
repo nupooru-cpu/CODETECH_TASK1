@@ -22,10 +22,10 @@ This project implements a D Flip-Flop and a 4-Bit Synchronous Counter using Veri
 
 ## Project Files
 
-counter testbench.txt
-counter.txt
-d flipflop.txt
-testbench Dff.txt
+*counter testbench.txt
+*counter.txt
+*d flipflop.txt
+*testbench Dff.txt
 
 ## Results
 
