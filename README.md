@@ -2,7 +2,6 @@
 VLSI project implementing D Flip-Flop and 4-Bit Counter using Verilog HDL with simulation and waveform verification.
 # Flip-Flop and Counter Design using Verilog HDL
 
-# D Flip-Flop and 4-Bit Synchronous Counter using Verilog HDL
 
 ## Overview
 This project demonstrates the design and simulation of a D Flip-Flop and a 4-Bit Synchronous Counter using Verilog HDL. The circuits were verified through simulation, and the output waveforms were analyzed to ensure correct functionality.
